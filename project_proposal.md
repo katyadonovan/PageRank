@@ -15,15 +15,6 @@
 
 8) Outline next steps.  For each team member, what do you plan to work on immediately?  For the team, what do you think you can get done in the first week?  Consider using Trello (or a similar tool) to delegate and track tasks.
 
- 
-1) What is the application domain?  What is the system of interest?
-2) What is the primary experimental question the authors address?
-3) What kihnd of model do they use?
-4) What methods do they apply to the model?   Analysis?  Simulation?
-5) What work does the model do?  Predict?  Explain?  Design?
-6) What validation do the authors report?
-7) Are the conclusions supported by the results?
-
 Bibliography:
 
 Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999) The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab.
