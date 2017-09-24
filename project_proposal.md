@@ -16,14 +16,23 @@
 8) Outline next steps.  For each team member, what do you plan to work on immediately?  For the team, what do you think you can get done in the first week?  Consider using Trello (or a similar tool) to delegate and track tasks.
 
  
+1) What is the application domain?  What is the system of interest?
+2) What is the primary experimental question the authors address?
+3) What kihnd of model do they use?
+4) What methods do they apply to the model?   Analysis?  Simulation?
+5) What work does the model do?  Predict?  Explain?  Design?
+6) What validation do the authors report?
+7) Are the conclusions supported by the results?
 
 Bibliography:
 
-Brin, Sergey, and Lawrence Page. “The Anatomy of a Large-Scale Hypertextual Web Search Engine.” Computer Networks and ISDN Systems, vol. 30, no. 1-7, 14 Apr. 1998, pp. 107–117.
+Page, Lawrence and Brin, Sergey and Motwani, Rajeev and Winograd, Terry (1999) The PageRank Citation Ranking: Bringing Order to the Web. Technical Report. Stanford InfoLab.
 
-the PageRank Citation Ranking: Bringing Order to the Web
+Page and Brin design a method known as PageRank, which matches web pages objectively in order to calculate a person's interest in them. By modeling each of the website's as nodes, and using links as edges, they created an algorithm that determines the rank of website based on how many websites link to them, taking the popularity of the websites that link to them into consideration. Page and Brin tested their model by comparing the predictions for future citation counts on the Stanford web against the citation counts and found that Pagerank was a better predictor. 
 
-The Google Pagerank Algorithm and How It Works
+Rogers, Ian. "The Google Pagerank Algorithm and How It Works" IPR Computing Ltd. 
+
+Rogers explains the Google PageRank algorithm by simulating how PageRank is determined using small systems. PageRank determines how important a page is by using how many links from other pages go to the page, and how many links it gives to other websites. Although Rogers did not design his own model, he used a previous algorithm on a smaller network in order to better explain page rank.
 
 deeper inside pagerank
 
